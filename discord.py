@@ -21,4 +21,4 @@ async def ping(ctx):
     await ctx.send('Pong!')
 
 # Replace 'YOUR_BOT_TOKEN' with your bot's token
-bot.run('MTMyMTAzNDM2MTM5ODYyNDI2Nw.GXFYPC.OvmlNXJEoMOAude3iT5DgB7BIaq_p4DRsRdofM')
+bot.run('MTMyMTAzNDM2MTM5ODYyNDI2Nw.GGSY2s.5hOinDrqPVd289Mu7DmZEAax2aMXhF7CRZFDmE')
